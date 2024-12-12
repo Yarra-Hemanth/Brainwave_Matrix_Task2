@@ -1,4 +1,4 @@
-# Social Media Sentiment Analysis
+# Twitter Sentiment Analysis
 
 ## Project Overview
 This project focuses on analyzing sentiment in social media data to classify text into positive, negative, or neutral categories. The aim is to extract insights from user-generated content, which can be useful for brands, researchers, and social media analysts.
